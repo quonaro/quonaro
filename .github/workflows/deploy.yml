@@ -55,10 +55,22 @@ jobs:
         
         # Copy built files from temp location to root
         echo "Copying files from temp to current directory..."
-        cp -r /tmp/dist_backup/* .
+        echo "Contents of /tmp/dist_backup:"
+        ls -la /tmp/dist_backup/
+        
+        # Copy all files including hidden ones
+        cp -r /tmp/dist_backup/. .
+        
+        # Debug: Check what was copied
+        echo "Contents after copy:"
+        ls -la
         
         # Add all files
         git add .
+        
+        # Debug: Check git status
+        echo "Git status:"
+        git status
         
         # Commit changes
         git commit -m "Deploy: $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
