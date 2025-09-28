@@ -40,8 +40,17 @@ jobs:
         # Remove all files except .git
         find . -maxdepth 1 -not -name '.git' -not -name '.' -exec rm -rf {} +
         
+        # Debug: Check if dist directory exists
+        echo "Checking dist directory..."
+        ls -la
+        
         # Copy built files from dist to root
-        cp -r dist/* .
+        if [ -d "dist" ] && [ "$(ls -A dist)" ]; then
+          cp -r dist/* .
+        else
+          echo "Error: dist directory is empty or does not exist"
+          exit 1
+        fi
         
         # Add all files
         git add .
