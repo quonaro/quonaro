@@ -61,6 +61,9 @@ jobs:
         # Copy all files including hidden ones
         cp -r /tmp/dist_backup/. .
         
+        # Create .nojekyll file to disable Jekyll processing
+        touch .nojekyll
+        
         # Debug: Check what was copied
         echo "Contents after copy:"
         ls -la
