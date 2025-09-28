@@ -78,10 +78,5 @@ jobs:
         # Push to quonaro-site branch
         git push origin quonaro-site --force
         
-    - name: Deploy to GitHub Pages (optional)
-      if: github.ref == 'refs/heads/quonaro-src'
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.DEPLOY_TOKEN }}
-        publish_dir: ./dist
-        publish_branch: quonaro-site
+    # GitHub Pages deployment is handled by the previous step
+    # No need for additional peaceiris/actions-gh-pages step
