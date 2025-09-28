@@ -65,8 +65,8 @@ jobs:
         echo "Contents after copy:"
         ls -la
         
-        # Add all files
-        git add .
+        # Add all files (force add, ignoring .gitignore)
+        git add -f .
         
         # Debug: Check git status
         echo "Git status:"
