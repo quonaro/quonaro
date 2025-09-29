@@ -17,6 +17,6 @@ export default defineConfig(({ mode }) => ({
   base: mode === "production" ? "/" : "/quonaro/",
   build: {
     outDir: "dist",
-    assetsDir: "./",
+    assetsDir: "./", // Hi
   },
 }));
