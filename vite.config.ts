@@ -14,7 +14,7 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "./",
+  base: "https://quonaro.github.io/quonaro/",
   build: {
     outDir: "dist",
     assetsDir: "./",
