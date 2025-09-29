@@ -14,7 +14,7 @@ const App = () => (
       <div className="dark">
         <Toaster />
         <Sonner />
-        <BrowserRouter>
+        <BrowserRouter basename="/quonaro">
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="*" element={<NotFound />} />
