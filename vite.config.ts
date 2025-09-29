@@ -17,14 +17,6 @@ export default defineConfig(({ mode }) => ({
   base: "./",
   build: {
     outDir: "dist",
-    assetsDir: "assets",
-    rollupOptions: {
-      output: {
-        manualChunks: undefined,
-        assetFileNames: mode === "production" ? "/quonaro/assets/[name]-[hash][extname]" : "assets/[name]-[hash][extname]",
-        chunkFileNames: mode === "production" ? "/quonaro/assets/[name]-[hash].js" : "assets/[name]-[hash].js",
-        entryFileNames: mode === "production" ? "/quonaro/assets/[name]-[hash].js" : "assets/[name]-[hash].js",
-      },
-    },
+    assetsDir: "./",
   },
 }));
