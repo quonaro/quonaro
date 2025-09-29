@@ -14,13 +14,16 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: mode === "production" ? "/" : "./",
+  base: "./",
   build: {
     outDir: "dist",
     assetsDir: "assets",
     rollupOptions: {
       output: {
         manualChunks: undefined,
+        assetFileNames: mode === "production" ? "/quonaro/assets/[name]-[hash][extname]" : "assets/[name]-[hash][extname]",
+        chunkFileNames: mode === "production" ? "/quonaro/assets/[name]-[hash].js" : "assets/[name]-[hash].js",
+        entryFileNames: mode === "production" ? "/quonaro/assets/[name]-[hash].js" : "assets/[name]-[hash].js",
       },
     },
   },
