@@ -14,7 +14,7 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "./",
+  base: mode === "production" ? "/quonaro/" : "./",
   build: {
     outDir: "dist",
     assetsDir: "assets",
