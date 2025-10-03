@@ -4,44 +4,38 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&background=0D0D0D&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;FastAPI+%2B+Vue%2FTS;AI-Augmented+Dev;Rust+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&background=282A36&center=true&vCenter=true&width=1000px&lines=Full+Stack+Engineer;FastAPI+%2B+Vue%2FTS;AI-Augmented+Dev;Rust+Learner" alt="Typing SVG" />
   <h1>Hi there, I'm Daniil</h1>
   <p><strong>Full-stack Engineer • FastAPI + Vue/TS • AI-Augmented Dev • Rust Learner</strong></p>
 
-  <div>
+  <div style="display: flex; flex-directions: row; justify-content: center; align-items: center;">
     <a href="mailto:quonaro@mail.ru">
       <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a style="margin: 5px; padding: 3px; pading-left: 5px; padding-right: 5px; text-decoration: none; box-sizing: border-box; justify-content: center; display: flex; align-items: center; color:  white ; background-color: #6272A4; font-weight: 500" href="https://quonaro.github.io/quonaro" target="_blank">🌐 My Site</a>
     <a href="https://t.me/quonaro">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
+    
   </div>
 
-  <hr />
+  
 
   <p>
     <em>Building fast, reliable web apps — with AI as a tool, not a crutch. Optimizing bottlenecks in Rust.</em>
   </p>
 </div>
 
----
+
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quonaro&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quonaro&layout=compact&theme=dark&langs_count=6" />
+<div style="display:flex; flex-direction: row; justify-content: center; align-items: center;">
+  <div align="center">
+    <img height="180em" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=quonaro&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+    <img height="180em" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quonaro&layout=compact&theme=dracula&langs_count=6" />
+  </div>
 </div>
 
----
-
-## 🛠️ Tech Radar
-
-| Production       | Exploring         | Legacy (maintain only) | Not using |
-|------------------|-------------------|------------------------|-----------|
-| FastAPI, Vue+TS  | Rust, WebAssembly | Django, DRF, jQuery    | Flask     |
-
----
 
 ## 📬 Let's Work Together
 
