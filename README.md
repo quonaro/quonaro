@@ -3,22 +3,18 @@
   Built for engineers, freelancers, and open-source collaborators.
 -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=FFFFFF&background=282A36&center=true&vCenter=true&width=1000px&lines=Full+Stack+Engineer;FastAPI+%2B+Vue%2FTS;AI-Augmented+Dev;Rust+Learner" alt="Typing SVG" />
-  <h1>Hi there, I'm Daniil</h1>
-  <p><strong>Full-stack Engineer • FastAPI + Vue/TS • AI-Augmented Dev • Rust Learner</strong></p>
 
-  <div style="display: flex; flex-directions: row; justify-content: center; align-items: center;">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
     <a href="mailto:quonaro@mail.ru">
       <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a style="margin: 5px; padding: 3px; pading-left: 5px; padding-right: 5px; text-decoration: none; box-sizing: border-box; justify-content: center; display: flex; align-items: center; color:  white ; background-color: #6272A4; font-weight: 500" href="https://quonaro.github.io/quonaro" target="_blank">🌐 My Site</a>
+    <a href="https://quonaro.github.io/">
+      <img src="https://img.shields.io/badge/My_Site-6272A4?style=for-the-badge&logo=firefox&logoColor=white" alt="My Site" />
+    </a>
     <a href="https://t.me/quonaro">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    
   </div>
-
   
 
   <p>
@@ -51,3 +47,7 @@ I'm **open to freelance projects** — especially if they involve:
 <div align="center">
   <p><small>Made with ❤️ and caffeine. No bots were harmed in the making of this profile.</small></p>
 </div>
+
+
+
+
