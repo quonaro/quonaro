@@ -25,11 +25,15 @@
 
 
 ## 📊 GitHub Stats
-<div style="display:flex; flex-direction: row; justify-content: center; align-items: center;">
-  <div align="center">
-    <img height="180em" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=quonaro&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-    <img height="180em" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quonaro&layout=compact&theme=dracula&langs_count=6" />
-  </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quonaro&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quonaro&theme=dracula&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 
