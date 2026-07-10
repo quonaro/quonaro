@@ -56,10 +56,14 @@ AI is a tool for acceleration, not a replacement for thinking.
 
 ## 📬 Open to Freelance
 
-I'm open to freelance projects — especially if they involve:
+I'm open to freelance projects. I work **full-stack**: from backend architecture and APIs to Vue/Nuxt frontends and deployment.
 
-- Backend systems with **Go** or **FastAPI**
-- Self-hosted infrastructure, networking, and tunneling tools
-- Minecraft server tooling or automation
+What I can help with:
+
+- **Websites & web apps**: landing pages, dashboards, admin panels, internal tools
+- **Backend systems**: APIs, microservices, automation, integrations with **Go** or **FastAPI**
+- **Self-hosted infrastructure**: Docker, networking, SSH/FRP tunnels, wildcard TLS, one-command installs
+- **Complex systems**: architecture design, performance optimization, Minecraft server tooling, automation
+- **MVP development**: end-to-end prototypes from idea to deployed product
 
 Reach out via [email](mailto:quonaro@mail.ru) or [Telegram](https://t.me/quonaro).
