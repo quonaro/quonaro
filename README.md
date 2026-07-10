@@ -1,57 +1,65 @@
-<!-- 
-  ⚡ Profile README for Daniil (@quonaro)
-  Built for engineers, freelancers, and open-source collaborators.
--->
+# Daniil · @quonaro
 
+**Infrastructure Engineer & Backend Developer**
 
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
-    <a href="mailto:quonaro@mail.ru">
-      <img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://quonaro.github.io/">
-      <img src="https://img.shields.io/badge/My_Site-6272A4?style=for-the-badge&logo=firefox&logoColor=white" alt="My Site" />
-    </a>
-    <a href="https://t.me/quonaro">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-  </div>
-  
+<p>
+  <a href="mailto:quonaro@mail.ru">
+    <img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://quonaro.github.io/">
+    <img src="https://img.shields.io/badge/Site-6272A4?style=flat-square&logo=firefox&logoColor=white" alt="Site" />
+  </a>
+  <a href="https://t.me/quonaro">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.reddit.com/user/quonaro/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" />
+  </a>
+</p>
+
+<em>Architecting systems that work. Building tools for self-hosters and modders.</em>
+
+## 🛠️ What I Actually Do
 
   <p>
-    <em>Building fast, reliable web apps — with AI as a tool, not a crutch. Optimizing bottlenecks in Rust.</em>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   </p>
-</div>
 
+## 📈 Stats
 
+  <p>
+    <img src="https://github-stats-extended.vercel.app/api?username=quonaro&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Daniil%27s+GitHub+Stats&disable_animations=true&number_format=long" alt="Daniil's GitHub stats" />
+  </p>
 
-## 📊 GitHub Stats
+  <p>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=quonaro&langs_count=6&theme=calm&layout=compact&hide=rust" alt="Top Languages" />
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quonaro&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+## 🔧 Focus Areas
 
-<br/>
+- **Self-hosted infrastructure**: Docker, home labs, minimal VPS dependency, one-command installs, wildcard TLS
+- **Network tooling**: Self-hosted ngrok-like tunnels, reverse proxying, exposing local services securely — see [locrest-server](https://github.com/quonaro/locrest-server)
+- **Developer tools**: SQLite-first backends, pure Go without C dependencies, live-editable Markdown docs — see [Vordoc](https://github.com/quonaro/Vordoc)
+- **Minecraft ecosystem**: Server orchestration, mod management, client sync, Prism-compatible exports — see [MiniMin](https://github.com/quonaro/minimin) and [MiniMin Sync](https://github.com/quonaro/minimin-sync)
+- **Telegram automation**: Lightweight clients with auto-replies and web UI
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quonaro&theme=dracula&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
-</div>
+## 💡 Philosophy
 
+I value **explicitness over magic**. If it can't be understood from reading the code, it shouldn't be there.  
+AI is a tool for acceleration, not a replacement for thinking.
 
-## 📬 Let's Work Together
+## 📬 Open to Freelance
 
-I'm **open to freelance projects** — especially if they involve:
-- Building full-stack apps with **FastAPI + Vue/TS**,  
-- Integrating AI **thoughtfully** into development workflows,  
-- Or optimizing performance-critical parts with **Rust**.
+I'm open to freelance projects — especially if they involve:
 
-👉 **Reach out via [email](mailto:quonaro@mail.ru) or [Telegram](https://t.me/quonaro).**
+- Backend systems with **Go** or **FastAPI**
+- Self-hosted infrastructure, networking, and tunneling tools
+- Minecraft server tooling or automation
 
----
-
-<div align="center">
-  <p><small>Made with ❤️ and caffeine. No bots were harmed in the making of this profile.</small></p>
-</div>
-
-
-
-
+Reach out via [email](mailto:quonaro@mail.ru) or [Telegram](https://t.me/quonaro).
