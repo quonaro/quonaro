@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpeg" alt="Daniil · @quonaro" width="100%" />
+</p>
+
 # Daniil · @quonaro
 
 **Infrastructure Engineer & Backend Developer**
