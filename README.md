@@ -9,7 +9,7 @@
   <a href="https://t.me/quonaro">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.reddit.com/user/quonaro/">
+  <a href="https://www.reddit.com/user/quonar0/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 </p>
